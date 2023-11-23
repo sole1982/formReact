@@ -1,0 +1,14 @@
+.contenedor-central {
+    display: wrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+    height: 100vh; }
+label{
+    font-weight: bold;
+}
+.contenedor-sombra{
+    box-shadow:5px 5px 10px #888888;
+}
