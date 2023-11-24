@@ -12,3 +12,8 @@ label{
 .contenedor-sombra{
     box-shadow:5px 5px 10px #888888;
 }
+img{
+    width: 100%;
+    margin-top: 0%;
+    margin-bottom: 20%;
+}

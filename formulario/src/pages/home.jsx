@@ -1,18 +1,16 @@
+import imagen from "../public/imagen.jpg"
 
 const Home = () => {
-    
-  
-  
-  return
+    return(
     
 <>
-
-<h1>jjjjjjjj</h1>
-
-
+<div  className="contenedor-central text-center">
+<h1>Contactanos!!!</h1>
+<img src={imagen}></img>
+</div>
 </>    
     
-    
+    ) 
   };
   
   export default Home;
